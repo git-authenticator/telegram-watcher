@@ -4,7 +4,8 @@ Written in python3 (venv folder included + pip freeze -> requirements.txt)
 
 <h3> 
   Not full version !
-</h3>
+</h3><br>
+<br>
 ~~This is just a fast developed thing I wrote for my friend, and didn't had much time working on it, so , as soon as possible I'll provide more flexibility and options available on it :)~~
 <br>
 <h2>Update:</h2>
